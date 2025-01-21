@@ -1,0 +1,21 @@
+ol{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(34, 21, 149);
+    color: rgb(0, 255, 60);
+}
+.link{
+    text-decoration: none;
+    color: rgb(245, 238, 230);
+}
+.link,hover{
+    background-color: aqua
+    color(srgb red green blue)
+    border-radius 10px;
+    
+
+}
